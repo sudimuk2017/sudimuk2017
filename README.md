@@ -6,7 +6,11 @@ I don't want to waste your time but in brief summary, I am an experienced Resear
 
 - <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/boy-light-skin-tone.png" height= 15px width = 15px> I am Sudi Murindany from Kigali, Rwanda.
 
-- 🔭 I’m currently pursuing my Bachelor of Science in Computer Engineering at makerere Univerty .
+### Current Work
+I’m currently taking the Full Stack Nanodegree on Udacity, you can join me on my journey on this repository.
+🔭 I’m currently working on a python package that will be ready very soon insha'Allah.
+
+- 🔭 I’m currently taking different courses on cousera to impove my Datascince Knowledge e.g:[Advanced Machine Learning](https://www.coursera.org/specializations/aml?)
 
 - 🌱 I’m learning Machine Learning and Data Science along along with Full-Stack Development.
 
