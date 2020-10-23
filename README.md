@@ -17,6 +17,7 @@ I don't want to waste your time but in brief summary, I am an experienced Resear
 
 ### Courses
 ***********************************
+The following repositories represent my learning journey in various fields:
 - [DepLearning Specialization](https://github.com/sudimuk2017/Deepleaning-Specialization)
 - [Applied Data Science Specialization](https://github.com/sudimuk2017/Applied-Data-Science-Specialization)
 - [Machine Learning Specialization](https://github.com/sudimuk2017/Machine-Learning-Specialization)
@@ -30,6 +31,7 @@ I don't want to waste your time but in brief summary, I am an experienced Resear
 
 ### Personal Projects
 ***********************************
+The following repositories are various projects that I worked on earlier. Most of them are super simple:
 - [ANN Projects](https://github.com/sudimuk2017/ANN-Projects)
 - [Memory Calculation](https://github.com/sudimuk2017/Calculation-memory-used-by-the-app)
 - [Birthday Calculator](https://github.com/sudimuk2017/Birthday-project)
