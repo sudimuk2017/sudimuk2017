@@ -62,10 +62,14 @@ The following repositories are various projects that I worked on earlier. Most o
 
 
 **Visitors Count** 
+***********************************
 
-![VisitorCount](https://profile-counter.glitch.me/{sarojp3}/count.svg)
+![VisitorCount](https://profile-counter.glitch.me/{sudimuk2017}/count.svg)
+
+### Finally
 
 - 👯 I’m looking to collaborate on Open-source Projects.
 - 💬 Ask me about Data Science, I will be happy to reply if i know the answer.
+**- If you like any of my repository, you can star⭐ me.**
 
 
