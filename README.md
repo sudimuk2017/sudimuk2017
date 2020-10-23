@@ -11,9 +11,7 @@ I don't want to waste your time but in brief summary, I am an experienced Resear
 
 - 🔭 I’m currently taking different courses on cousera to impove my Datascince Knowledge e.g:[Advanced Machine Learning](https://www.coursera.org/specializations/aml?)
 
-- 🌱 I’m learning Machine Learning and Data Science along along with Full-Stack Development.
-
-- 👯 I’m looking to collaborate on Open-source Projects.
+- 🌱 I’m currently learning Machine Learning and Statistical Analysis unit 2 0n [worldquant university](https://wqu.org/programs/data-science).
 
 - 💬 Ask me about Web/Android, ML, Data Science and Deep Learning.
 
@@ -45,5 +43,7 @@ I don't want to waste your time but in brief summary, I am an experienced Resear
 **Visitors Count** 
 
 ![VisitorCount](https://profile-counter.glitch.me/{sarojp3}/count.svg)
+
+- 👯 I’m looking to collaborate on Open-source Projects.
 
 
