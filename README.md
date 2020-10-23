@@ -24,6 +24,20 @@ I don't want to waste your time but in brief summary, I am an experienced Resear
 - [TenserFlow in practice Specialization](https://github.com/sudimuk2017/TensorFlow-in-Practice-Specialization)
 - [Scientific Computing for Data Science with python](https://github.com/sudimuk2017/Scientific-Computing-for-Data-Science-with-python)
 
+### WorkShop
+***********************************
+- [AI for People](https://github.com/sudimuk2017/AI-for-people-Workshop)
+
+### Personal Projects
+***********************************
+- [ANN Projects](https://github.com/sudimuk2017/ANN-Projects)
+- [Memory Calculation](https://github.com/sudimuk2017/Calculation-memory-used-by-the-app)
+- [Birthday Calculator](https://github.com/sudimuk2017/Birthday-project)
+- Etc
+
+
+
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p align="center"><b>Languages and Tools</b></p> <br>
 
 <p align="center">
