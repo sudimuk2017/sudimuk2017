@@ -1,21 +1,21 @@
-### Hello 👋
+# Hello 👋
 ***********************************
 
-### About me
+## about me
 
 <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/boy-light-skin-tone.png" height= 15px width = 15px> I am Sudi Murindany from Kigali, Rwanda.
 
 I don't want to waste your time but in brief summary, I am an experienced Research Assistant with a demonstrated history of working in the Data Science industry. Skilled in Data Science and Data Engineering. Strong research professional with a Bachelor of Science in Computer Engineering from Makerere University, Kampala Uganda. 
 
 
-### Current Work
+## Current Work
 ***********************************
 
 - 🔭 I’m currently taking different courses on cousera to impove my Datascince Knowledge e.g:[Advanced Machine Learning](https://www.coursera.org/specializations/aml?)
 
 - 🌱 I’m currently learning Machine Learning and Statistical Analysis unit 2 0n [worldquant university](https://wqu.org/programs/data-science).
 
-### Courses
+## Courses
 ***********************************
 The following repositories represent my learning journey in various fields:
 - [DepLearning Specialization](https://github.com/sudimuk2017/Deepleaning-Specialization)
@@ -25,11 +25,11 @@ The following repositories represent my learning journey in various fields:
 - [TenserFlow in practice Specialization](https://github.com/sudimuk2017/TensorFlow-in-Practice-Specialization)
 - [Scientific Computing for Data Science with python](https://github.com/sudimuk2017/Scientific-Computing-for-Data-Science-with-python)
 
-### WorkShop
+## WorkShop
 ***********************************
 - [AI for People](https://github.com/sudimuk2017/AI-for-people-Workshop)
 
-### Personal Projects
+## Personal Projects
 ***********************************
 The following repositories are various projects that I worked on earlier. Most of them are super simple:
 - [ANN Projects](https://github.com/sudimuk2017/ANN-Projects)
@@ -66,12 +66,12 @@ The following repositories are various projects that I worked on earlier. Most o
 
 ![VisitorCount](https://profile-counter.glitch.me/{sudimuk2017}/count.svg)
 
-### Finally
+## Finally
 
 - 👯 I’m looking to collaborate on Open-source Projects.
 - 💬 Ask me about Data Science, I will be happy to reply if i know the answer.
 
 
-## If you like any of my repositories, you can star⭐ me.
+# If you like any of my repositories, you can star⭐ me.
 
 
