@@ -7,6 +7,8 @@
 
 I don't want to waste your time but in brief summary, I am an experienced Research Assistant with a demonstrated history of working in the Data Science industry. Skilled in Data Science and Data Engineering. Strong research professional with a Bachelor of Science in Computer Engineering from Makerere University, Kampala Uganda. 
 
+***********************************
+
 ### Current Work
 
 - 🔭 I’m currently taking different courses on cousera to impove my Datascince Knowledge e.g:[Advanced Machine Learning](https://www.coursera.org/specializations/aml?)
