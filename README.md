@@ -2,10 +2,11 @@
 ### Hello, Everyone 👋
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p align="center"><b>About me</b></p> <br>
+Experienced Research Assistant with a demonstrated history of working in the Data Science industry. Skilled in Data Science and Data Engineering. Strong research professional with a Bachelor of Science - BS focused in Computer Engineering from Makerere University. 
 
 - <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/boy-light-skin-tone.png" height= 15px width = 15px> I am Saroj Pandey from Kathmandu,Nepal.
 
-- 🔭 I’m currently pursuing my Bachelor of Science in Computer Science and Information Technology.
+- 🔭 I’m currently pursuing my Bachelor of Science in Computer Engineering at makerere Univerty .
 
 - 🌱 I’m learning Machine Learning and Data Science along along with Full-Stack Development.
 
