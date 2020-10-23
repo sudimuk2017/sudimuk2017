@@ -54,14 +54,14 @@ The following repositories are various projects that I worked on earlier. Most o
 
 <br /> 
 
-- 📫 How to reach me:<br>
-
+## 📫 How to reach me:<br>
+***********************************
 &nbsp;&nbsp;&nbsp;&nbsp;murindanyi@gmail.com &nbsp;&nbsp;
 <a href = "https://www.linkedin.com/in/murindanyi-sudi-aa8793150/" target="_blank"><img src = "https://image.flaticon.com/icons/svg/174/174857.svg" height= 15px width = 15px> Linkedin </a>&nbsp;&nbsp;
 <a href = "https://www.instagram.com/sudi_abdih/" target="_blank"><img src = "https://image.flaticon.com/icons/svg/174/174855.svg" height= 15px width = 15px> Instagram </a>&nbsp;&nbsp;
 
 
-**Visitors Count** 
+## Visitors Count
 ***********************************
 
 ![VisitorCount](https://profile-counter.glitch.me/{sudimuk2017}/count.svg)
@@ -72,6 +72,6 @@ The following repositories are various projects that I worked on earlier. Most o
 - 💬 Ask me about Data Science, I will be happy to reply if i know the answer.
 
 
-**If you like any of my repositories, you can star⭐ me.**
+## If you like any of my repositories, you can star⭐ me.
 
 
