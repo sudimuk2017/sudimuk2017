@@ -1,5 +1,5 @@
-***********************************
 ### Hello, Everyone 👋
+***********************************
 
 ### About me
 
@@ -7,15 +7,20 @@
 
 I don't want to waste your time but in brief summary, I am an experienced Research Assistant with a demonstrated history of working in the Data Science industry. Skilled in Data Science and Data Engineering. Strong research professional with a Bachelor of Science in Computer Engineering from Makerere University, Kampala Uganda. 
 
-***********************************
 
 ### Current Work
+***********************************
 
 - 🔭 I’m currently taking different courses on cousera to impove my Datascince Knowledge e.g:[Advanced Machine Learning](https://www.coursera.org/specializations/aml?)
 
 - 🌱 I’m currently learning Machine Learning and Statistical Analysis unit 2 0n [worldquant university](https://wqu.org/programs/data-science).
 
-- 💬 Ask me about Web/Android, ML, Data Science and Deep Learning.
+### Courses
+***********************************
+
+
+
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p align="center"><b>Languages and Tools</b></p> <br>
 
@@ -47,5 +52,6 @@ I don't want to waste your time but in brief summary, I am an experienced Resear
 ![VisitorCount](https://profile-counter.glitch.me/{sarojp3}/count.svg)
 
 - 👯 I’m looking to collaborate on Open-source Projects.
+- 💬 Ask me about Data Science, I will be happy to reply if i know the answer.
 
 
