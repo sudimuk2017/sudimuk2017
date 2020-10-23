@@ -49,7 +49,6 @@ The following repositories are various projects that I worked on earlier. Most o
  <img src="https://github.com/sudimuk2017/sudimuk2017/blob/main/Assets/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px"><br>
 </p>
 
-
 &nbsp;![Sudi's Github Stats](https://github-readme-stats.vercel.app/api?username=sudimuk2017&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 &nbsp;![Top Langs](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sudimuk2017&layout=compact&theme=radical)
 
@@ -57,9 +56,10 @@ The following repositories are various projects that I worked on earlier. Most o
 
 - 📫 How to reach me:<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.facebook.com/sarojp2580?ref=bookmarks" target="_blank"> <img src = "https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-256.png" height= 15px width = 15px> Facebook </a>&nbsp;&nbsp;
-<a href = "https://www.instagram.com/saroj_pandey79" target="_blank"><img src = "https://image.flaticon.com/icons/svg/174/174855.svg" height= 15px width = 15px> Instagram </a>&nbsp;&nbsp;
-<a href = "https://www.linkedin.com/in/saroj-pandey-15a417178/" target="_blank"><img src = "https://image.flaticon.com/icons/svg/174/174857.svg" height= 15px width = 15px> Linkedin </a>&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;murindanyi@gmail.com &nbsp;&nbsp;
+<a href = "https://www.linkedin.com/in/murindanyi-sudi-aa8793150/" target="_blank"><img src = "https://image.flaticon.com/icons/svg/174/174857.svg" height= 15px width = 15px> Linkedin </a>&nbsp;&nbsp;
+<a href = "https://www.instagram.com/sudi_abdih/" target="_blank"><img src = "https://image.flaticon.com/icons/svg/174/174855.svg" height= 15px width = 15px> Instagram </a>&nbsp;&nbsp;
+
 
 **Visitors Count** 
 
