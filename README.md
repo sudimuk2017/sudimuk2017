@@ -17,10 +17,12 @@ I don't want to waste your time but in brief summary, I am an experienced Resear
 
 ### Courses
 ***********************************
-
-
-
-
+- [DepLearning Specialization](https://github.com/sudimuk2017/Deepleaning-Specialization)
+- [Applied Data Science Specialization](https://github.com/sudimuk2017/Applied-Data-Science-Specialization)
+- [Machine Learning Specialization](https://github.com/sudimuk2017/Machine-Learning-Specialization)
+- [Mathematics for Machine Learning Specialization](https://github.com/sudimuk2017/Mathematics-for-Machine-Learning-Specialization)
+- [TenserFlow in practice Specialization](https://github.com/sudimuk2017/TensorFlow-in-Practice-Specialization)
+- [Scientific Computing for Data Science with python](https://github.com/sudimuk2017/Scientific-Computing-for-Data-Science-with-python)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p align="center"><b>Languages and Tools</b></p> <br>
 
