@@ -70,6 +70,8 @@ The following repositories are various projects that I worked on earlier. Most o
 
 - 👯 I’m looking to collaborate on Open-source Projects.
 - 💬 Ask me about Data Science, I will be happy to reply if i know the answer.
-**- If you like any of my repository, you can star⭐ me.**
+
+
+**If you like any of my repository, you can star⭐ me.**
 
 
