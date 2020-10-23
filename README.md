@@ -3,7 +3,7 @@
 
 ### About me
 
-- <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/boy-light-skin-tone.png" height= 15px width = 15px> I am Sudi Murindany from Kigali, Rwanda.
+<img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/boy-light-skin-tone.png" height= 15px width = 15px> I am Sudi Murindany from Kigali, Rwanda.
 
 I don't want to waste your time but in brief summary, I am an experienced Research Assistant with a demonstrated history of working in the Data Science industry. Skilled in Data Science and Data Engineering. Strong research professional with a Bachelor of Science in Computer Engineering from Makerere University, Kampala Uganda. 
 
