@@ -37,9 +37,6 @@ The following repositories are various projects that I worked on earlier. Most o
 - [Birthday Calculator](https://github.com/sudimuk2017/Birthday-project)
 - Etc
 
-
-
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p align="center"><b>Languages and Tools</b></p> <br>
 
 <p align="center">
@@ -53,7 +50,7 @@ The following repositories are various projects that I worked on earlier. Most o
 </p>
 
 
-[![Saroj Pandey Github Stats](https://github-readme-stats.vercel.app/api?username=sarojp3&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/sarojp3)
+[Sudi's Github Stats](https://github-readme-stats.vercel.app/api?username=sudimuk2017&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/sudimuk2017)
 &nbsp;![Top Langs](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sarojp3&layout=compact&theme=radical)
 
 <br /> 
