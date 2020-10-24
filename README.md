@@ -1,4 +1,4 @@
-# <h1 align="center"> Hello ![image](https://github.com/sudimuk2017/qwaszx/blob/main/waving_hand.gif)</h1>
+# <h1 align="center"> Hello ![image width="45"](https://github.com/sudimuk2017/qwaszx/blob/main/waving_hand.gif)</h1>
 ***********************************
 
 ## about me
