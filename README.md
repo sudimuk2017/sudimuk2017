@@ -1,4 +1,4 @@
-# Hello 👋
+# <h1 align="center">Hello <img width="45" src="waving_hand.gif"></h1>
 ***********************************
 
 ## about me
