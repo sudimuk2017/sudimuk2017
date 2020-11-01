@@ -52,7 +52,7 @@ The following repositories are various projects that I worked on earlier. Most o
 </p>
 
 &nbsp;![Sudi's Github Stats](https://github-readme-stats.vercel.app/api?username=sudimuk2017&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-&nbsp;![Most Used Languages]("https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sudimuk2017&layout=compact&theme=radical")
+![Most Used Languages]("https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sudimuk2017&layout=compact&theme=radical")
 
 <br /> 
 
