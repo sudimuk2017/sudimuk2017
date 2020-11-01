@@ -51,8 +51,8 @@ The following repositories are various projects that I worked on earlier. Most o
  <img src="https://github.com/sudimuk2017/sudimuk2017/blob/main/Assets/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px"><br>
 </p>
 
-&nbsp;![Sudi's Github Stats](https://github-readme-stats.vercel.app/api?username=sudimuk2017&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515
-&nbsp;![Sudi's Github Stats]("https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sudimuk2017&layout=compact&theme=radical")
+&nbsp;![Sudi's Github Stats](https://github-readme-stats.vercel.app/api?username=sudimuk2017&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+&nbsp;![Sudi's top-langs]("https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sudimuk2017&layout=compact&theme=radical")
 
 <br /> 
 
