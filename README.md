@@ -31,6 +31,11 @@ The following repositories represent my learning journey in various fields:
 ***********************************
 - [AI for People](https://github.com/sudimuk2017/AI-for-people-Workshop)
 
+## How to reach you
+************************
+-[LInkedin](https://www.linkedin.com/in/murindanyi-sudi-aa8793150/)
+-[Email](mailto:sudimurindanyicr7@gmail.com)
+
 ## Personal Projects
 ***********************************
 The following repositories are various projects that I worked on earlier. Most of them are super simple:
