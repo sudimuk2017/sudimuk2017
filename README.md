@@ -12,7 +12,6 @@ I don't want to waste your time but in brief summary, I am an experienced Resear
 ***********************************
 
 - 🔭 I’m currently taking different courses on cousera to impove my Datascince Knowledge e.g:[Advanced Machine Learning](https://www.coursera.org/specializations/aml?)
-
 - 🌱 I’m currently learning Machine Learning and Statistical Analysis unit 2 0n [worldquant university](https://wqu.org/programs/data-science).
 
 ### Courses
