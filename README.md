@@ -1,21 +1,21 @@
 # <h1 align="center"> Hello, <img width="45" src="https://github.com/sudimuk2017/qwaszx/blob/main/waving_hand.gif"> I am Sudi Murindany from Kigali, Rwanda  <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/boy-light-skin-tone.png" height= 30px width = 30px> </h1>
 ***********************************
 
-## about me
+### about me
 
 I don't want to waste your time but in brief summary, I am an experienced Research Assistant with a demonstrated history of working in the DataScience industry. Skilled in Data Science and Data Engineering. Strong research professional with a Bachelor of Science in Computer Engineering from Makerere University, Kampala Uganda. 
 
 ![image](https://github.com/sudimuk2017/qwaszx/blob/main/dino.gif)
 
 
-## Current Work
+### Current Work
 ***********************************
 
 - 🔭 I’m currently taking different courses on cousera to impove my Datascince Knowledge e.g:[Advanced Machine Learning](https://www.coursera.org/specializations/aml?)
 
 - 🌱 I’m currently learning Machine Learning and Statistical Analysis unit 2 0n [worldquant university](https://wqu.org/programs/data-science).
 
-## Courses
+### Courses
 ***********************************
  <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif" height = "50%" width = "50%"/>
  
@@ -27,11 +27,11 @@ The following repositories represent my learning journey in various fields:
 - [TenserFlow in practice Specialization](https://github.com/sudimuk2017/TensorFlow-in-Practice-Specialization)
 - [Scientific Computing for Data Science with python](https://github.com/sudimuk2017/Scientific-Computing-for-Data-Science-with-python)
 
-## WorkShop
+### WorkShop
 ***********************************
 - [AI for People](https://github.com/sudimuk2017/AI-for-people-Workshop)
 
-## Personal Projects
+### Personal Projects
 ***********************************
 The following repositories are various projects that I worked on earlier. Most of them are super simple:
 - [ANN Projects](https://github.com/sudimuk2017/ANN-Projects)
@@ -56,19 +56,19 @@ The following repositories are various projects that I worked on earlier. Most o
 
 <br /> 
 
-## 📫 How to reach me:<br>
+### 📫 How to reach me:<br>
 ***********************************
 &nbsp;&nbsp;&nbsp;&nbsp;murindanyi@gmail.com &nbsp;&nbsp;
 <a href = "https://www.linkedin.com/in/murindanyi-sudi-aa8793150/" target="_blank"><img src = "https://image.flaticon.com/icons/svg/174/174857.svg" height= 15px width = 15px> Linkedin </a>&nbsp;&nbsp;
 <a href = "https://www.instagram.com/sudi_abdih/" target="_blank"><img src = "https://image.flaticon.com/icons/svg/174/174855.svg" height= 15px width = 15px> Instagram </a>&nbsp;&nbsp;
 
 
-## Visitors Count
+### Visitors Count
 ***********************************
 
 ![VisitorCount](https://profile-counter.glitch.me/{sudimuk2017}/count.svg)
 
-## Finally
+### Finally
 
 - 👯 I’m looking to collaborate on Open-source Projects.
 - 💬 Ask me about Data Science, I will be happy to reply if i know the answer.
