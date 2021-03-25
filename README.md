@@ -2,7 +2,7 @@
 *********************************
 
 ### about me
-*******************
+******************
 
 I don't want to waste your time but in brief summary, I am an experienced Research Assistant with a demonstrated history of working in the DataScience industry. Skilled in Data Science and Data Engineering. Strong research professional with a Bachelor of Science in Computer Engineering from Makerere University, Kampala Uganda. 
 
