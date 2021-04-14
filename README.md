@@ -32,7 +32,7 @@ The following repositories represent my learning journey in various fields:
 - [AI for People](https://github.com/sudimuk2017/AI-for-people-Workshop)
 
 ### Personal Projects
-*********************************
+********************************
 The following repositories are various projects that I worked on earlier. Most of them are super simple:
 - [ANN Projects](https://github.com/sudimuk2017/ANN-Projects)
 - [Memory Calculation](https://github.com/sudimuk2017/Calculation-memory-used-by-the-app)
