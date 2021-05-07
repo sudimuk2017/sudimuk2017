@@ -8,7 +8,6 @@ I don't want to waste your time but in brief summary, I am an experienced Resear
 
 ![image](https://github.com/sudimuk2017/qwaszx/blob/main/dino.gif)
 
-
 ### Current Work
 ******************
 
