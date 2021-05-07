@@ -27,7 +27,7 @@ The following repositories represent my learning journey in various fields:
 - [Scientific Computing for Data Science with python](https://github.com/sudimuk2017/Scientific-Computing-for-Data-Science-with-python)
 
 ### WorkShop
-*******************************
+******************************
 - [AI for People](https://github.com/sudimuk2017/AI-for-people-Workshop)
 
 ### Personal Projects
