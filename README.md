@@ -1,5 +1,5 @@
 # <h1 align="center"> Hello, <img width="45" src="https://github.com/sudimuk2017/qwaszx/blob/main/waving_hand.gif"> I am Sudi Murindany from Kigali, Rwanda  <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/boy-light-skin-tone.png" height= 30px width = 30px> </h1>
-*******************
+********************
 
 ### about me
 *******************
@@ -27,7 +27,7 @@ The following repositories represent my learning journey in various fields:
 - [Scientific Computing for Data Science with python](https://github.com/sudimuk2017/Scientific-Computing-for-Data-Science-with-python)
 
 ### WorkShop
-****************************
+***************************
 - [AI for People](https://github.com/sudimuk2017/AI-for-people-Workshop)
 
 ### Personal Projects
