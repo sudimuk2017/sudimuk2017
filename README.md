@@ -56,7 +56,7 @@ The following repositories are various projects that I worked on earlier. Most o
 <br /> 
 
 ### 📫 How to reach me:<br>
-********************************
+*******************************
 &nbsp;&nbsp;&nbsp;&nbsp;murindanyi@gmail.com &nbsp;&nbsp;
 <a href = "https://www.linkedin.com/in/murindanyi-sudi-aa8793150/" target="_blank"><img src = "https://image.flaticon.com/icons/svg/174/174857.svg" height= 15px width = 15px> Linkedin </a>&nbsp;&nbsp;
 <a href = "https://www.instagram.com/sudi_abdih/" target="_blank"><img src = "https://image.flaticon.com/icons/svg/174/174855.svg" height= 15px width = 15px> Instagram </a>&nbsp;&nbsp;
