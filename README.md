@@ -63,7 +63,7 @@ The following repositories are various projects that I worked on earlier. Most o
 
 
 ### Visitors Count
-**********************************
+*********************************
 
 ![VisitorCount](https://profile-counter.glitch.me/{sudimuk2017}/count.svg)
 
