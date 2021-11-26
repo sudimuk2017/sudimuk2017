@@ -23,7 +23,7 @@ The following repositories represent my learning journey in various fields:
 - [Applied Data Science Specialization](https://github.com/sudimuk2017/Applied-Data-Science-Specialization)
 - [Machine Learning Specialization](https://github.com/sudimuk2017/Machine-Learning-Specialization)
 - [Mathematics for Machine Learning Specialization](https://github.com/sudimuk2017/Mathematics-for-Machine-Learning-Specialization)
-- [TenserFlow in practice Specialization](https://github.com/sudimuk2017/TensorFlow-in-Practice-Specialization)
+- [TensorFlow in practice Specialization](https://github.com/sudimuk2017/TensorFlow-in-Practice-Specialization)
 - [Scientific Computing for Data Science with python](https://github.com/sudimuk2017/Scientific-Computing-for-Data-Science-with-python)
 
 ### WorkShop
