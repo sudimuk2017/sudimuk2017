@@ -12,6 +12,7 @@ I don't want to waste your time but in brief summary, I am an experienced Resear
 ************
 
 - 🔭 I’m currently taking different courses on cousera to impove my Datascince Knowledge (https://www.coursera.org/specializations/aml?)
+- 🔭 Currently taking courses on Dataquest
 
 ### Courses
 ************
