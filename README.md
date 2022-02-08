@@ -11,8 +11,7 @@ I don't want to waste your time but in brief summary, I am an experienced Resear
 ### Current Work
 ************
 
-- 🔭 I’m currently taking different courses on cousera to impove my Datascince Knowledge e.g:[Advanced Machine Learning](https://www.coursera.org/specializations/aml?)
-- 🌱 I’m currently learning Machine Learning and Statistical Analysis unit 2 0n [worldquant university](https://wqu.org/programs/data-science).
+- 🔭 I’m currently taking different courses on cousera to impove my Datascince Knowledge (https://www.coursera.org/specializations/aml?)
 
 ### Courses
 ************
@@ -25,6 +24,8 @@ The following repositories represent my learning journey in various fields:
 - [Mathematics for Machine Learning Specialization](https://github.com/sudimuk2017/Mathematics-for-Machine-Learning-Specialization)
 - [TensorFlow in practice Specialization](https://github.com/sudimuk2017/TensorFlow-in-Practice-Specialization)
 - [Scientific Computing for Data Science with python](https://github.com/sudimuk2017/Scientific-Computing-for-Data-Science-with-python)
+
+🌱 Happy to have completed of Machine Learning and Statistical Analysis 0n [worldquant university](https://wqu.org/programs/data-science).
 
 ### WorkShop
 *****************
