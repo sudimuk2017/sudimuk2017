@@ -29,7 +29,7 @@ The following repositories represent my learning journey in various fields:
 🌱 Happy to have completed of Machine Learning and Statistical Analysis 0n [worldquant university](https://wqu.org/programs/data-science).
 
 ### WorkShop
-*****************
+******************
 - [AI for People](https://github.com/sudimuk2017/AI-for-people-Workshop)
 
 ### Personal Projects
