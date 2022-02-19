@@ -1,5 +1,5 @@
 # <h1 align="center"> Hello, <img width="45" src="https://github.com/sudimuk2017/qwaszx/blob/main/waving_hand.gif"> I am Sudi Murindany from Kigali, Rwanda  <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/boy-light-skin-tone.png" height= 30px width = 30px> </h1>
-************
+***********
 
 ### about me
 ************
@@ -15,7 +15,7 @@ I don't want to waste your time but in brief summary, I am an experienced Resear
 - 🔭 Currently taking courses on Dataquest
 
 ### Courses
-************
+***********
  <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif" height = "50%" width = "50%"/>
  
 The following repositories represent my learning journey in various fields:
