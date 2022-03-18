@@ -9,7 +9,7 @@ I don't want to waste your time but in brief summary, I am an experienced Resear
 ![image](https://github.com/sudimuk2017/qwaszx/blob/main/dino.gif)
 
 ### Current Work
-************
+*************
 
 - 🔭 I’m currently taking different courses on cousera to impove my Datascince Knowledge (https://www.coursera.org/specializations/aml?)
 - 🔭 Currently taking courses on Dataquest
