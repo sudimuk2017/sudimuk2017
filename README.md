@@ -19,7 +19,6 @@ I don't want to waste your time but in brief summary, I am an experienced Resear
  <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif" height = "50%" width = "50%"/>
  
 The following repositories represent my learning journey in various fields:
-- [DepLearning Specialization](https://github.com/sudimuk2017/Deepleaning-Specialization)
 - [Applied Data Science Specialization](https://github.com/sudimuk2017/Applied-Data-Science-Specialization)
 - [Machine Learning Specialization](https://github.com/sudimuk2017/Machine-Learning-Specialization)
 - [Mathematics for Machine Learning Specialization](https://github.com/sudimuk2017/Mathematics-for-Machine-Learning-Specialization)
