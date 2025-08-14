@@ -4,14 +4,14 @@
 ### about me
 ************
 
-I don't want to waste your time, but in brief, I am an experienced researcher with a demonstrated history of working in the Data Science industry. Skilled in Data Science and Data Engineering. Strong research professional with a Bachelor of Science in Computer Engineering and a master in Computer Science from Makerere University, Kampala, Uganda. 
+I don't want to waste your time, but in brief, I am a researcher with a proven track record of working in the Data Science, Computer Vision and Natural Language Processing industries. Strong research professional with a Bachelor of Science in Computer Engineering and a master in Computer Science from Makerere University, Kampala, Uganda. 
 
 ![image](https://github.com/sudimuk2017/qwaszx/blob/main/dino.gif)
 
 ### Current Work
 *************
 
-- 🔭 I’m currently taking different courses on cousera to impove my Datascince Knowledge (https://www.coursera.org/specializations/aml?)
+- 🔭 I’m currently taking different courses on Coursera to improve my Data Science Knowledge (https://www.coursera.org/specializations/aml?)
 - 🔭 Currently taking courses on Dataquest
 
 ### Courses
@@ -26,19 +26,11 @@ The following repositories represent my learning journey in various fields:
 - [TensorFlow in practice Specialization](https://github.com/sudimuk2017/TensorFlow-in-Practice-Specialization)
 - [Scientific Computing for Data Science with python](https://github.com/sudimuk2017/Scientific-Computing-for-Data-Science-with-python)
 
-🌱 Happy to have completed of Machine Learning and Statistical Analysis 0n [worldquant university](https://wqu.org/programs/data-science).
+🌱 Happy to have completed Machine Learning and Statistical Analysis 0n [worldquant university](https://wqu.org/programs/data-science).
 
 ### WorkShop
 ******************
 - [AI for People](https://github.com/sudimuk2017/AI-for-people-Workshop)
-
-### Personal Projects
-*******************
-The following repositories are various projects that I worked on earlier. Most of them are super simple:
-- [ANN Projects](https://github.com/sudimuk2017/ANN-Projects)
-- [Memory Calculation](https://github.com/sudimuk2017/Calculation-memory-used-by-the-app)
-- [Birthday Calculator](https://github.com/sudimuk2017/Birthday-project)
-- Etc
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p align="center"><b>Languages and Tools</b></p> <br>
 
@@ -72,7 +64,7 @@ The following repositories are various projects that I worked on earlier. Most o
 ### Finally
 
 - 👯 I’m looking to collaborate on Open-source Projects.
-- 💬 Ask me about Data Science, I will be happy to reply if i know the answer.
+- 💬 Ask me about Data Science, I will be happy to reply if I know the answer.
 
 
 # If you like any of my repositories, you can give me a star ⭐.
