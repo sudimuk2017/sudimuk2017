@@ -1,18 +1,20 @@
-# <h1 align="center"> Hello, <img width="45" src="https://github.com/sudimuk2017/qwaszx/blob/main/waving_hand.gif"> I am Sudi Murindany from Kigali, Rwanda  <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/boy-light-skin-tone.png" height= 30px width = 30px> </h1>
+# <h1 align="center"> Hi, <img width="45" src="https://github.com/sudimuk2017/qwaszx/blob/main/waving_hand.gif"> I am Sudi Murindanyi<img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/boy-light-skin-tone.png" height= 30px width = 30px> </h1>
 *************
 
 ### about me
 ************
 
-I don't want to waste your time, but in brief, I am a researcher with a proven track record of working in the Data Science, Computer Vision and Natural Language Processing industries. Strong research professional with a Bachelor of Science in Computer Engineering and a master in Computer Science from Makerere University, Kampala, Uganda. 
+I don't want to waste your time, but in brief, I am an AI research Engineer with a proven track record of working in the Data Science, Computer Vision and Natural Language Processing industries. Strong research professional with a Bachelor of Science in Computer Engineering and a master in Computer Science. 
 
 ![image](https://github.com/sudimuk2017/qwaszx/blob/main/dino.gif)
 
 ### Current Work
 *************
 
-- 🔭 I’m currently taking different courses on Coursera to improve my Data Science Knowledge (https://www.coursera.org/specializations/aml?)
-- 🔭 Currently taking courses on Dataquest
+- 🔭 Advanced 3D & Video Analysis
+- 🔭 Multimodal Models
+- 🔭 Diffusion Models and Prediction
+- 🔭 Edge AI Deployment
 
 ### Courses
 *************
@@ -62,11 +64,5 @@ The following repositories represent my learning journey in various fields:
 ![VisitorCount](https://profile-counter.glitch.me/{sudimuk2017}/count.svg)
 
 ### Finally
-
-- 👯 I’m looking to collaborate on Open-source Projects.
-- 💬 Ask me about Data Science, I will be happy to reply if I know the answer.
-
-
-# If you like any of my repositories, you can give me a star ⭐.
 
 
