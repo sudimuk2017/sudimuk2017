@@ -1,7 +1,7 @@
 # <h1 align="center"> Hi, <img width="45" src="https://github.com/sudimuk2017/qwaszx/blob/main/waving_hand.gif"> I am Sudi Murindanyi<img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/boy-light-skin-tone.png" height= 30px width = 30px> </h1>
 *************
 
-### about me
+### about me [Visit my web page](https://sudimuk2017.github.io/)
 ************
 
 I don't want to waste your time, but in brief, I am an AI research Engineer with a proven track record of working in the Data Science, Computer Vision and Natural Language Processing industries. Strong research professional with a Bachelor of Science in Computer Engineering and a master in Computer Science. 
