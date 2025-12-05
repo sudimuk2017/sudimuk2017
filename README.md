@@ -11,18 +11,6 @@ I don't want to waste your time, but in brief, I am an AI research Engineer with
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p align="center"><b>Languages and Tools</b></p> <br>
 
-<p align="center">
- <img src="https://github.com/sudimuk2017/sudimuk2017/blob/main/Assets/ai.svg" alt="ai" style="vertical-align:top; margin:4px"><br>
- <img src="https://github.com/sudimuk2017/sudimuk2017/blob/main/Assets/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
- <img src="https://github.com/sudimuk2017/sudimuk2017/blob/main/Assets/python.svg" alt="python" style="vertical-align:top; margin:4px">
- <img src="https://github.com/sudimuk2017/sudimuk2017/blob/main/Assets/html.svg" alt="html" style="vertical-align:top; margin:4px">
- <img src="https://github.com/sudimuk2017/sudimuk2017/blob/main/Assets/javascript.svg" alt="javascript" style="vertical-align:top; margin:4px"><br>
- <img src="https://github.com/sudimuk2017/sudimuk2017/blob/main/Assets/jetbrains_pycharm.svg" alt="pycharm" style="vertical-align:top; margin:4px">
- <img src="https://github.com/sudimuk2017/sudimuk2017/blob/main/Assets/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px"><br>
-</p>
-
-<br /> 
-
 ### 📫 How to reach me:<br>
 **************************
 &nbsp;&nbsp;&nbsp;&nbsp;murindanyi@gmail.com &nbsp;&nbsp;
