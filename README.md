@@ -4,35 +4,10 @@
 ### About me ["Visit my web page"](https://sudimuk2017.github.io/)
 ************
 
-I don't want to waste your time, but in brief, I am an AI research Engineer with a proven track record of working in the Data Science, Computer Vision and Natural Language Processing industries. Strong research professional with a Bachelor of Science in Computer Engineering and a master in Computer Science. 
+I don't want to waste your time, but in brief, I am an AI research Engineer with a proven track record of working in the Data Science, Computer Vision, and Natural Language Processing industries. Strong research professional with a Bachelor of Science in Computer Engineering and a master in Computer Science. 
 
 ![image](https://github.com/sudimuk2017/qwaszx/blob/main/dino.gif)
 
-### Current Work
-*************
-
-- 🔭 Advanced 3D & Video Analysis
-- 🔭 Multimodal Models
-- 🔭 Diffusion Models and Prediction
-- 🔭 Edge AI Deployment
-
-### Courses
-*************
- <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif" height = "50%" width = "50%"/>
- 
-The following repositories represent my learning journey in various fields:
-- [Deep Learning Specialization](https://github.com/sudimuk2017/Deeplearning-Specialization)
-- [Applied Data Science Specialization](https://github.com/sudimuk2017/Applied-Data-Science-Specialization)
-- [Machine Learning Specialization](https://github.com/sudimuk2017/Machine-Learning-Specialization)
-- [Mathematics for Machine Learning Specialization](https://github.com/sudimuk2017/Mathematics-for-Machine-Learning-Specialization)
-- [TensorFlow in practice Specialization](https://github.com/sudimuk2017/TensorFlow-in-Practice-Specialization)
-- [Scientific Computing for Data Science with python](https://github.com/sudimuk2017/Scientific-Computing-for-Data-Science-with-python)
-
-🌱 Happy to have completed Machine Learning and Statistical Analysis 0n [worldquant university](https://wqu.org/programs/data-science).
-
-### WorkShop
-******************
-- [AI for People](https://github.com/sudimuk2017/AI-for-people-Workshop)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p align="center"><b>Languages and Tools</b></p> <br>
 
