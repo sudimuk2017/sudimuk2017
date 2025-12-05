@@ -21,7 +21,6 @@ I don't want to waste your time, but in brief, I am an AI research Engineer with
  <img src="https://github.com/sudimuk2017/sudimuk2017/blob/main/Assets/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px"><br>
 </p>
 
-![Sudi's Github Stats](https://github-readme-stats.vercel.app/api?username=sudimuk2017&show_icons=true&hide_border=true)
 ![Most Used Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sudimuk2017&layout=compact&theme=radical)
 
 <br /> 
